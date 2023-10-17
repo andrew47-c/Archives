@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Archives](README.md)
+* [✍ Giới Thiệu](README.md)
+
+## 📃 Configuration
+
+* [Page 1](configuration/page-1.md)
