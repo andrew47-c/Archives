@@ -1,6 +1,6 @@
 ---
 description: >-
-  - Bài viết này sẽ hướng dẫn bạn mua miền .com với giá 1.30$ tính ra khoảng 32k
+  - Bài viết này sẽ hướng dẫn bạn mua miền .com với giá 1.3$ tính ra khoảng 32k
   tiền VND
 ---
 
@@ -8,7 +8,7 @@ description: >-
 
 ### 💕Tổng Quan
 
-* Hiện nay, Tên miền .com thường cho các doanh nghiệp khẳng định vị thế của bản thân trên Internet và việc mua tên miền này trên các trang như [Hostinger](https://www.hostinger.vn/), [Vietnix](https://vietnix.vn/), [Inet](https://inet.vn/), ... thì chúng có giá rất cao từ 130k-400k .
+* Hiện nay, Tên miền .com thường cho các doanh nghiệp khẳng định vị thế của bản thân trên Internet và việc mua tên miền này trên các trang như [Hostinger](https://www.hostinger.vn/), [Vietnix](https://vietnix.vn/), [Inet](https://inet.vn/), ... thì nó có giá rất cao từ 130k-400k .
 * Thế nên bài viết này sẽ giúp bạn mua được tên miền .com với giá chỉ từ 1.30$.
 
 {% hint style="danger" %}
