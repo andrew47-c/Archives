@@ -29,4 +29,7 @@ Vui lòng đọc kỹ các thao tác sau:
 1. Truy cập vào trang [Spaceship ](https://www.spaceship.com/)và thực hiện đăng ký tài khoản.
 2. Sau khi đăng nhập xong, tìm tên miền .com bạn muốn mua tại [Spaceship Domains](https://www.spaceship.com/domains/) và thêm nó vào giỏ hàng bằng cách ấn vào Add to cart.
 3. Khi tên miền đã được đưa vào giỏ hàng, đi đến giỏ hàng bằng cách ấn View Cart, lúc này bạn sẽ thấy tên miền vừa thêm vào giỏ hàng. chọn Add promo code và nhập code: <mark style="color:red;">**COM67**</mark>
+4. Tiếp đó, chọn Checkout và thực hiện thanh toán là xong.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Trang chủ Spaceship.com</p></figcaption></figure>
 
