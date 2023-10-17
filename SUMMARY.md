@@ -2,6 +2,6 @@
 
 * [✍ Giới Thiệu](README.md)
 
-## 📃 Configuration
+## 📃 Tài Liệu
 
-* [Page 1](configuration/page-1.md)
+* [Cách mua miền .com giá rẻ](tai-lieu/cach-mua-mien-.com-gia-re.md)
