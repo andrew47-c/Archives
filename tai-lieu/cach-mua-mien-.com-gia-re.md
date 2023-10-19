@@ -31,5 +31,5 @@ Vui lòng đọc kỹ các thao tác sau:
 3. Khi tên miền đã được đưa vào giỏ hàng, đi đến giỏ hàng bằng cách ấn View Cart, lúc này bạn sẽ thấy tên miền vừa thêm vào giỏ hàng. chọn Add promo code và nhập code: <mark style="color:red;">**COM67**</mark>
 4. Tiếp đó, chọn Checkout và thực hiện thanh toán là xong.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Trang chủ Spaceship.com</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Trang chủ Spaceship.com</p></figcaption></figure>
 
